@@ -1,0 +1,81 @@
+{
+    "data": [{
+            "id": 1,
+            "judul": "Rumah Minimalis",
+            "url": "https://images.unsplash.com/photo-1449844908441-8829872d2607?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aG9tZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 2,
+            "judul": "Rumah Minimalis",
+            "url": "https://images.unsplash.com/photo-1430285561322-7808604715df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA5fHxob21lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 3,
+            "judul": "Rumah Mewah",
+            "url": "https://images.unsplash.com/photo-1605146769289-440113cc3d00?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODV8fGhvbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 4,
+            "judul": "Rumah Mewah",
+            "url": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njl8fGhvbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 5,
+            "judul": "Bangunan Tua",
+            "url": "https://media.istockphoto.com/photos/old-empty-industrial-background-picture-id1134680342?b=1&k=20&m=1134680342&s=170667a&w=0&h=-CJVzCbEUOBWZEJ8TZAiva4-fodwCeKEo96KkShmH5Q=",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 6,
+            "judul": "Kerajaan",
+            "url": "https://media.istockphoto.com/photos/old-empty-industrial-background-picture-id1134680342?b=1&k=20&m=1134680342&s=170667a&w=0&h=-CJVzCbEUOBWZEJ8TZAiva4-fodwCeKEo96KkShmH5Q=",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 7,
+            "judul": "Kerajaan",
+            "url": "https://media.istockphoto.com/photos/old-empty-industrial-background-picture-id1134680342?b=1&k=20&m=1134680342&s=170667a&w=0&h=-CJVzCbEUOBWZEJ8TZAiva4-fodwCeKEo96KkShmH5Q=",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 8,
+            "judul": "Gedung Mewah",
+            "url": "https://media.istockphoto.com/photos/old-empty-industrial-background-picture-id1134680342?b=1&k=20&m=1134680342&s=170667a&w=0&h=-CJVzCbEUOBWZEJ8TZAiva4-fodwCeKEo96KkShmH5Q=",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 9,
+            "judul": "Rumah Tahanan",
+            "url": "https://images.unsplash.com/photo-1546450334-03038e2eaa39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8amFpbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 10,
+            "judul": "Pembangunan Rumah",
+            "url": "https://images.unsplash.com/photo-1593786267440-550458cc882a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG91c2UlMjBjb25zdHJ1Y3Rpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 11,
+            "judul": "Coffe Senja",
+            "url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 12,
+            "judul": "Rumah Makan Cepat Saji",
+            "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHJlc3RhdXJhbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        },
+        {
+            "id": 13,
+            "judul": "Hotel Bintang 5",
+            "url": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore beatae ipsam quia saepe iure voluptates et itaque libero? Porro, nostrum!"
+        }
+    ]
+}

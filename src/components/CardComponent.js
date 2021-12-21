@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import LogoSearch from "../search.svg";
 
 export default function CardComponent({ data: datas }) {
@@ -40,20 +41,22 @@ export default function CardComponent({ data: datas }) {
         <div className="grid gap-6 mt-4 lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1">
           {output.map((data) => {
             return (
-              <div
-                key={data.id}
-                className="w-80 h-96 bg-indigo-50 mx-auto shadow-indigo-50 flex flex-col justify-start gap-2 rounded-md shadow-lg hover:shadow-xl hover:cursor-pointer"
-              >
-                <img
-                  className="w-full h-96 object-cover"
-                  src={data.url}
-                  alt=""
-                />
-                <div className="flex flex-col p-3">
-                  <h1 className="font-semibold">{data.judul}</h1>
-                  <p>{data.description}</p>
+              <Link to={`detail/${data.id}`} key={data.id}>
+                <div
+                  className="w-80 h-96 bg-indigo-50 mx-auto shadow-indigo-50 flex flex-col justify-start gap-2 rounded-md shadow-lg hover:shadow-xl hover:cursor-pointer"
+                  // onClick={handleClick}
+                >
+                  <img
+                    className="w-full h-96 object-cover"
+                    src={data.url}
+                    alt=""
+                  />
+                  <div className="flex flex-col p-3">
+                    <h1 className="font-semibold">{data.judul}</h1>
+                    <p>{data.description}</p>
+                  </div>
                 </div>
-              </div>
+              </Link>
             );
           })}
         </div>

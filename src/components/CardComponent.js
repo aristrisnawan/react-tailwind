@@ -26,7 +26,7 @@ export default function CardComponent({ data: datas }) {
   }, [input]);
   return (
     <div>
-      <div className="flex justify-center relative w-8/12 mx-auto">
+      <div className="flex justify-center relative mx-auto lg:w-9/12 md:w-8/12 sm:w-full">
         <input
           type="text"
           className=" bg-gray-100 w-full p-3 rounded-lg focus:ring-pink-500 focus:border-pink-500"
